@@ -1,7 +1,7 @@
 {
    "name":"Undisputed",
    "description": "Mjölnir, the legendary hammer of the ancient god of thunder.",
-    "image_data": "https://gateway.pinata.cloud/ipfs/QmdKTS3KogEMAtzHZwvw19Xm2pac5uVffdA2n3mK7X8jyc",
+    "image_data": "https://ipfs.io/ipfs/QmdKTS3KogEMAtzHZwvw19Xm2pac5uVffdA2n3mK7X8jyc",
    "attributes":[
       {
          "trait_type":"Speed",

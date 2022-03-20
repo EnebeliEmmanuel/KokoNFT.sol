@@ -1,7 +1,7 @@
 {
    "name":"Uncharted",
     "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
-    "image_data": "https://gateway.pinata.cloud/ipfs/QmVFSpiyuzpFFVxNADXdx6miheGTVmJkx1wJ6nQNFqenN7",
+    "image_data": "https://ipfs.io/ipfs/QmVFSpiyuzpFFVxNADXdx6miheGTVmJkx1wJ6nQNFqenN7",
    "attributes":[
       {
          "trait_type":"Speed",
